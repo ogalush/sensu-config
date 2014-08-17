@@ -1,0 +1,9 @@
+{
+  "api": {
+    "host": "sensu.localdomain",
+    "port": 4567,
+    "user": "admin",
+    "password": "password"
+  }
+}
+

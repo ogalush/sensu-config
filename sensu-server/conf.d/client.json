@@ -1,0 +1,8 @@
+{
+  "client": {
+    "name": "sensu",
+    "address": "sensu.localdomain",
+    "subscriptions": [ "all","webservers" ]
+  }
+}
+
